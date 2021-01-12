@@ -1,2 +1,2 @@
 # HTML-CSS-Fundamentals
-# Assigment-ul se afla in folderul Stevanexamplesite
+# Assigment-ul se afla in folderul Examplesite
