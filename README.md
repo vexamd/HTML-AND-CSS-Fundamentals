@@ -1,2 +1,2 @@
-# HTML-CSS-Fundamentals
+# Assignment-ul Îmbunătățirea mini site-ului
 
